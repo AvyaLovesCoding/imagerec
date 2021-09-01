@@ -1,0 +1,16 @@
+#setting{
+    width: 80%;
+   font-size: 30px;
+}
+body{
+    background: pink;
+    color: white;
+}
+#items{
+    color: yellow;
+}
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
